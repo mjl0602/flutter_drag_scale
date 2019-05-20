@@ -116,7 +116,7 @@ class _TouchableContainerState extends State<TouchableContainer>
     }
     setState(() {
       if (widget.doubleTapStillScale) {
-        _scale *= (1 + 0.2);
+        _scale *= (1 + 0.5);
       } else {
         _scale *= (2);
       }

@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/majialun/Documents/flutter/flutter
+FLUTTER_APPLICATION_PATH=/Users/majialun/Desktop/github/flutter_drag_scale/example
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/majialun/Documents/flutter/flutter/bin/cache/artifacts/engine/ios
